@@ -72,6 +72,10 @@ For UWP the manifest was updated:
 - **Property change notification** can be handled using the [PropertyChanged.Fody](https://www.nuget.org/packages/PropertyChanged.Fody/) NuGet package.
 - **Platform specifics** beyond Xamarin Essentials can be handled using the [Shiny.Core](https://www.nuget.org/packages/Shiny.Core/) NuGet package.
 
+## Test Projects
+
+- Tests should follow a **WhatGivenShould** pattern and be are categorized by Unit or Integration **traits**.
+
 ## Visuals
 
 - **Material Visual** can be enabled for an Android feel in iOS.
