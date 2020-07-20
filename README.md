@@ -1,2 +1,3 @@
 # Assets
-Standardized assets for projects.
+
+Standardized assets that can be used as a starting point for projects.
